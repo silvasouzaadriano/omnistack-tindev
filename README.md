@@ -14,7 +14,7 @@
  - Due to **Node** architecture, by using a **websocket**, will be done a communication between server (API) and frontend in real time; It means that when an user give a like to another, and the same user which reiceved the like also give the like to other user (despite of frontend or mobile), in real time will be appear on screen the match information.
 </h4>
 
-## Main Techologies used
+## Main Technologies used
 
 ### BACK-END
 -   [Node.js](https://nodejs.org/en/)
